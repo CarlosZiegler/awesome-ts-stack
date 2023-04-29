@@ -24,22 +24,31 @@ This repository includes the following apps and packages, organized into differe
 
 ## Backend
 
-- express: a server-side Node.js app built with Express
-- fastify: a server-side Node.js app built with Fastify
-- trpc: a server-side Node.js app built with trpc
+- express-project: A project template for building web applications using the Express framework for Node.js.
+- fastify-project: A project template for building web applications using the Fastify framework for Node.js.
+- strapi-project: A project template for building web applications using Strapi, a headless CMS with an admin panel for managing content.
+- trpc-minimal-project: A minimal project template for building APIs using the trpc framework, a lightweight RPC library for Node.js.
+- trpc-express-server-project: A project template for building APIs using the trpc framework and the Express framework for Node.js.
+- trpc-fastify-server-project: A project template for building APIs using the trpc framework and the Fastify framework for Node.js.
 
 ## Frontend
 
-- vite: a client-side app built with Vite
-- astro: a client-side app built with Astro
-- docusaurus: a static site generator built with Docusaurus
-- cra: a client-side app built with Create React App
+- astro-project: A project template for building web applications using Astro, a modern static site builder for JavaScript.
+- cra-project: A project template for building web applications using Create React App (CRA), a popular tool for creating React applications.
+- docusaurus-project: A project template for building documentation websites using Docusaurus, a tool for building static websites.
+- gatsby-project: A project template for building web applications using Gatsby, a framework for building fast and secure websites.
+- refine-project: A project template for building data-driven applications using Refine, a React-based framework with built-in CRUD operations and API integration.
+- vite-project: A project template for building web applications using Vite, a build tool for modern web projects.
 
 ## Fullstack
 
-- nextjs: a full-stack app built with Next.js
-- remix: a full-stack app built with Remix
-- t3: a full-stack app built with the T3 stack (TypeScript, React, Redux)
+- blitzjs-project: A project template for building full-stack web applications using Blitz.js, a full-stack React framework with built-in API and database integration.
+- nextjs-project: A project template for building full-stack web applications using Next.js, a popular React framework for building server-rendered applications.
+- redwood-project: A project template for building full-stack JavaScript web applications using Redwood, a full-stack framework with built-in Jamstack architecture.
+- refine-nextjs-project: A project template for building full-stack web applications using Refine and Next.js, a combination of Refine and Next.js for a complete stack.
+- refine-remix-project: A project template for building full-stack web applications using Refine and Remix, a combination of Refine and Remix for a complete stack.
+- remix-project: A project template for building web applications using Remix, a framework for building modern web applications with React.
+- t3-project: A project template for building scalable full-stack web applications using T3, a full-stack TypeScript framework with built-in database and API integration.
 
 ## Packages
 
