@@ -181,7 +181,7 @@ importers:
         specifier: ^5.0.4
         version: 5.0.4
 
-  backend/moleculer-projects:
+  backend/moleculer-project:
     dependencies:
       ioredis:
         specifier: ^5.0.0
@@ -666,7 +666,7 @@ importers:
         specifier: ^4.3.2
         version: 4.3.2(@types/node@18.16.3)
 
-  fullstack/blitz-project:
+  fullstack/blitz-pro:
     dependencies:
       '@blitzjs/auth':
         specifier: 2.0.0-beta.26
@@ -814,7 +814,7 @@ importers:
         specifier: 5.0.2
         version: 5.0.2(@babel/eslint-parser@7.21.3)(@testing-library/dom@9.2.0)(@types/node@18.16.3)(csstype@3.1.2)(eslint@8.39.0)(prop-types@15.8.1)(react-dom@18.2.0)(react@18.2.0)(require-from-string@2.0.2)
 
-  fullstack/refine-nextjs-project:
+  fullstack/refine-next:
     dependencies:
       '@chakra-ui/react':
         specifier: ^2.5.1
@@ -887,7 +887,7 @@ importers:
         specifier: ^4.7.4
         version: 4.9.5
 
-  fullstack/refine-remix-project:
+  fullstack/refine-remix:
     dependencies:
       '@refinedev/cli':
         specifier: ^2.5.1
@@ -17531,7 +17531,7 @@ packages:
     dependencies:
       '@types/prop-types': 15.7.5
       '@types/scheduler': 0.16.2
-      csstype: 3.1.1
+      csstype: 3.1.2
 
   /@types/react@18.2.0:
     resolution: {integrity: sha512-0FLj93y5USLHdnhIhABk83rm8XEGA7kH3cr+YUlvxoUGp1xNt/DINUMvqPxLyOQMzLmZe8i4RTHbvb8MC7NmrA==}
@@ -23471,6 +23471,7 @@ packages:
 
   /csstype@3.1.1:
     resolution: {integrity: sha512-DJR/VvkAvSZW9bTouZue2sSxDwdTN92uHjqeKVm+0dAqdfNykRzQ95tay8aXMBAAPpUiq4Qcug2L7neoRh2Egw==}
+    dev: false
 
   /csstype@3.1.2:
     resolution: {integrity: sha512-I7K1Uu0MBPzaFKg4nI5Q7Vs2t+3gWWW648spaF+Rg7pI9ds18Ugn+lvg4SHczUdKlHI5LWBXyqfS8+DufyBsgQ==}
