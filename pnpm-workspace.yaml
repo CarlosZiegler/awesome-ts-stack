@@ -1,0 +1,5 @@
+packages:
+  - "fullstack/*"
+  - "backend/*"
+  - "frontend/*"
+  - "packages/*"

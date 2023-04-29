@@ -1,0 +1,20 @@
+# COMMON
+node_modules/
+dist/
+old/
+
+# IDE AND IOS
+.idea/
+.vscode/
+.vscode
+.DS_Store
+
+# ENVS
+.env
+.env-local
+.env-dev
+.env-release
+.env-prod
+
+
+
