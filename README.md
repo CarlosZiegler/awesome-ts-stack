@@ -24,37 +24,37 @@ This repository includes the following apps and packages, organized into differe
 
 ## Backend
 
-- express-project: A project template for building web applications using the Express framework for Node.js.
-- fastify-project: A project template for building web applications using the Fastify framework for Node.js.
-- strapi-project: A project template for building web applications using Strapi, a headless CMS with an admin panel for managing content.
-- trpc-minimal-project: A minimal project template for building APIs using the trpc framework, a lightweight RPC library for Node.js.
-- trpc-express-server-project: A project template for building APIs using the trpc framework and the Express framework for Node.js.
-- trpc-fastify-server-project: A project template for building APIs using the trpc framework and the Fastify framework for Node.js.
-- moleculerjs-project: A project template for building microservices-based applications using MoleculerJS, a fast and scalable microservices framework for Node.js.
+- `express-project`: A project template for building web applications using the Express framework for Node.js.
+- `fastify-project`: A project template for building web applications using the Fastify framework for Node.js.
+- `strapi-project`: A project template for building web applications using Strapi, a headless CMS with an admin panel for managing content.
+- `trpc-minimal-project`: A minimal project template for building APIs using the trpc framework, a lightweight RPC library for Node.js.
+- `trpc-express-server-project`: A project template for building APIs using the trpc framework and the Express framework for Node.js.
+- `trpc-fastify-server-project`: A project template for building APIs using the trpc framework and the Fastify framework for Node.js.
+- `moleculerjs-project`: A project template for building microservices-based applications using MoleculerJS, a fast and scalable microservices framework for Node.js.
 
 ## Frontend
 
-- astro-project: A project template for building web applications using Astro, a modern static site builder for JavaScript.
-- cra-project: A project template for building web applications using Create React App (CRA), a popular tool for creating React applications.
-- docusaurus-project: A project template for building documentation websites using Docusaurus, a tool for building static websites.
-- gatsby-project: A project template for building web applications using Gatsby, a framework for building fast and secure websites.
-- refine-project: A project template for building data-driven applications using Refine, a React-based framework with built-in CRUD operations and API integration.
-- vite-project: A project template for building web applications using Vite, a build tool for modern web projects.
+- `astro-project`: A project template for building web applications using Astro, a modern static site builder for JavaScript.
+- `cra-project`: A project template for building web applications using Create React App (CRA), a popular tool for creating React applications.
+- `docusaurus-project`: A project template for building documentation websites using Docusaurus, a tool for building static websites.
+- `gatsby-project`: A project template for building web applications using Gatsby, a framework for building fast and secure websites.
+- `refine-project`: A project template for building data-driven applications using Refine, a React-based framework with built-in CRUD operations and API integration.
+- `vite-project`: A project template for building web applications using Vite, a build tool for modern web projects.
 
 ## Fullstack
 
-- blitzjs-project: A project template for building full-stack web applications using Blitz.js, a full-stack React framework with built-in API and database integration.
-- nextjs-project: A project template for building full-stack web applications using Next.js, a popular React framework for building server-rendered applications.
-- redwood-project: A project template for building full-stack JavaScript web applications using Redwood, a full-stack framework with built-in Jamstack architecture.
-- refine-nextjs-project: A project template for building full-stack web applications using Refine and Next.js, a combination of Refine and Next.js for a complete stack.
-- refine-remix-project: A project template for building full-stack web applications using Refine and Remix, a combination of Refine and Remix for a complete stack.
-- remix-project: A project template for building web applications using Remix, a framework for building modern web applications with React.
-- t3-project: A project template for building scalable full-stack web applications using T3, a full-stack TypeScript framework with built-in database and API integration.
+- `blitzjs-project`: A project template for building full-stack web applications using Blitz.js, a full-stack React framework with built-in API and database integration.
+- `nextjs-project`: A project template for building full-stack web applications using Next.js, a popular React framework for building server-rendered applications.
+- `redwood-project`: A project template for building full-stack JavaScript web applications using Redwood, a full-stack framework with built-in Jamstack architecture.
+- `refine-nextjs-project`: A project template for building full-stack web applications using Refine and Next.js, a combination of Refine and Next.js for a complete stack.
+- `refine-remix-project`: A project template for building full-stack web applications using Refine and Remix, a combination of Refine and Remix for a complete stack.
+- `remix-project`: A project template for building web applications using Remix, a framework for building modern web applications with React.
+- `t3-project`: A project template for building scalable full-stack web applications using T3, a full-stack TypeScript framework with built-in database and API integration.
 
 ## Packages
 
-- packages-forms: a library containing various forms components for use in apps
-- packages-ui: a library containing various UI components for use in apps
+- `packages-forms`: a library containing various forms components for use in apps
+- `packages-ui`: a library containing various UI components for use in apps
 
 Each app and package is written in TypeScript.
 
