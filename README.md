@@ -30,6 +30,7 @@ This repository includes the following apps and packages, organized into differe
 - trpc-minimal-project: A minimal project template for building APIs using the trpc framework, a lightweight RPC library for Node.js.
 - trpc-express-server-project: A project template for building APIs using the trpc framework and the Express framework for Node.js.
 - trpc-fastify-server-project: A project template for building APIs using the trpc framework and the Fastify framework for Node.js.
+- moleculerjs-project: A project template for building microservices-based applications using MoleculerJS, a fast and scalable microservices framework for Node.js.
 
 ## Frontend
 
